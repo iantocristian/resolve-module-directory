@@ -1,4 +1,4 @@
-# resolve-module-dir
+# resolve-module-directory
 Resolves a module as a directory
 
 ## Usage
