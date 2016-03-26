@@ -1,6 +1,6 @@
 {
   "name": "resolve-module-directory",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Resolve a module as a directory",
   "repository": {
     "type": "git",
