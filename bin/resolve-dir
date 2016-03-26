@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+var resolve = require('../');
+
+var moduleName = process.argv[2];
+
+if (!moduleName) {
+    console.log('Usage: resolve <module-name>');
+    process.exit(-1);
+}
+
+process.stdout.write(resolve(moduleName) + '\n');

@@ -1,0 +1,32 @@
+{
+  "name": "resolve-module-directory",
+  "version": "0.0.0",
+  "description": "Resolve a module as a directory",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iantocristian/resolve-module-directory.git"
+  },
+  "keywords": [
+    "resolve",
+    "require",
+    "module",
+    "directory",
+    "dir"
+  ],
+  "author": {
+    "name": "Cristian Ianto"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "resolve-dir": "./bin/resolve-dir"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "README.md",
+    "LICENSE",
+    "index.js",
+    "bin/resolve-dir"
+  ]
+}
